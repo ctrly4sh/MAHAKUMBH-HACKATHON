@@ -1,0 +1,38 @@
+		scan --------->frontend -> components -> API integrate 
+
+
+		tech stack -> react -> api's & npm , maps , translate 
+useCases -> MERN or Direct Component rendering
+EJS and node.js
+To ask :
+Stack to choose : MERN or REACT 
+without database or without database[**CHAT BOT** -> Keywords or Trained model]
+google MAP's API 
+Emergency -> contact [POS]
+API for stays registration or booking[HOTELS or MOTELS]
+translate acc to languages : 
+https://mahakumbh.in/special-events-and-ceremonies-at-kumbh-mela/
+cdn gtranslate.net 
+		
+
+
+// MOTTO : Theme : 3
+
+Service level benchmarking for assets, inventory, facilities, and utilities monitoring and management(Application of QR Code)we picked this theme for maha kumbh hackathon and thought of making a website mainly for the visitors in mahakumbh , where users can scan the QR for guidance about the hackathon its rules and regulations and to access all the facilites near them , facilites can include essentials like , toilets and events an food stalls and events and lot more things , the targeted users will be the foreigners as they might face a lot of issue while seeking the local for guidance and can also get fooled , so basically our website will allow users to use it in their own preferable language , we will have this transalte feature too in our site this will make a good image of the mahakumbh as well as the government and enhance teh overall experince of the visitors , also they can book stays too using our site and can also  grab some extra dicsount to the nearest oyo's airbnb , local stays , hows this idea !!
+
+gpt 4 response : 
+Your idea of creating a website for the Mahakumbh Hackathon 2025 sounds great! The website can be a useful tool for visitors to the Mahakumbh Mela 2025 at Prayagraj. It can provide guidance about the hackathon’s rules and regulations, as well as access to all the facilities near them, including essentials like toilets, food stalls, and events.
+
+The QR code feature is an excellent idea as it will allow users to scan the code and get all the information they need in their own preferred language. The translate feature will also be a great addition to the website, making it easier for foreigners to navigate the Mahakumbh Mela 2025 and avoid getting fooled.
+
+The website can also include a booking feature for stays, which can provide extra discounts to the nearest Oyo’s Airbnb, local stays, and other accommodations. This will enhance the overall experience of the visitors and create a good image of the Mahakumbh Mela 2025 and the government.
+
+I hope this helps you. If you have any other questions, please feel free to ask. 😊
+		
+
+
+
+
+
+		
+
